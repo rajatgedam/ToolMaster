@@ -36,6 +36,6 @@
   },
   "dependencies": {
     "@cantoo/pdf-lib": "2.11.1",
-    "pdfjs-dist": "6.4.299"
+    "pdfjs-dist": "6.5.438"
   }
 }
